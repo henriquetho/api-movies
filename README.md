@@ -19,3 +19,4 @@ Api-movies é uma aplicação em Node.js onde o usuário cadastra um filme, pree
 
 ## Contact
 
+- [LinkedIn](https://www.linkedin.com/in/henrique-thomazin-068922162/)
